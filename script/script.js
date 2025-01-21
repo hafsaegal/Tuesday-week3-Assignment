@@ -14,3 +14,12 @@ const favouriteCities = {
   city4: "Amsterdam",
 };
 console.log(favouriteCities);
+
+const mombasa = {
+  favouritePlace: "Lamu Beach",
+  favouriteFoods: ["Biriyani", "chapati and maharagwe wa nazi"],
+  PreferredStayDurationInWeeks: 3,
+  Cold: false,
+  warm: true,
+};
+console.log(mombasa);
